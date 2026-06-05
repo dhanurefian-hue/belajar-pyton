@@ -6,7 +6,7 @@ print(b)
 # soal 2 
 tahun = 2025 
 tahun_sekarang = (tahun + 1)
-print(tahun_sekarang)
+print(int(tahun_sekarang))
 #soal 3
 nama = "dhanu"
 umur = 17
@@ -14,6 +14,7 @@ ipk = 3.75
 aktif = True
 print(str(nama))
 print(int(umur))
+print(type(umur))
 print(float(ipk))
 print(bool(aktif))
 #soal 4
